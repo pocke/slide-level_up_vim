@@ -129,6 +129,16 @@ Text-Object is a range.
 
 ---
 
+# What's Operator?
+
+The Operators are many actions.
+
+- `d` Delete
+- `c` Change
+- `y` Yank
+
+---
+
 # What's Text-Object?
 
 
