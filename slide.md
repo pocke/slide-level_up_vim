@@ -21,8 +21,8 @@ http://me.pocke.me/slide-level_up_vim
 ## Pocke
 A web engineer.
 
-- GitHub: [@pocke](https://github.com/pocke)
-- Twitter [@p_ck_](https://twitter.com/p_ck_)
+- GitHub: [`@pocke`](https://github.com/pocke)
+- Twitter [`@p_ck_`](https://twitter.com/p_ck_)
 ]
 
 .col-xs-6[
