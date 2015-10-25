@@ -213,11 +213,11 @@ class: center, middle
 
 # Text-Object and Operator
 
-### What's Operator?
+## What's Operator?
 
 Operator is a verb.
 
-### What's Text-Object?
+## What's Text-Object?
 
 Text-Object is a range.
 
@@ -249,7 +249,8 @@ See. [:help operator](http://vim-jp.org/vimdoc-ja/motion.html#operator)
 
 (DEMO)
 
-- When Operator is pressed twice, Operator is applied for a line.
+- Press operator twice, Apply for a line.
+- Press operator with shift key, Apply between cursor and EOL.
 
 
 ---
