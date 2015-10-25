@@ -7,6 +7,9 @@ class: center, middle
 
 ![vim](vim.svg)
 
+DentooLT #12
+
+http://me.pocke.me/slide-level_up_vim
 
 ---
 
@@ -28,11 +31,12 @@ A web engineer.
 ![pocke](pocke.svg)
 ]
 
-![skyhopper](skyhopper.png)
+[![skyhopper](skyhopper.png)](https://github.com/skyarch-networks/skyhopper)
 
 .sideci-img[
-![sideci](sideci.png)
+[![sideci](sideci.png)](https://www.sideci.com)
 ]
+
 
 ]
 
@@ -199,7 +203,7 @@ The Operators are many actions.
 
 - `d` Delete
 - `c` Change
-- `y` Yank
+- `y` Yank (Copy)
 - `v` Visual
 
 See. [:help operator](http://vim-jp.org/vimdoc-ja/motion.html#operator)
@@ -242,5 +246,50 @@ See. [:help text-objects](http://vim-jp.org/vimdoc-ja/motion.html#text-objects)
 
 
 # What's "Char for range type"
+
+
+`(`, `{`, `[`, and more...
+
+
+---
+
+class: center, middle
+
+# Advanced Usage<br>with plugin
+
+---
+
+# [terryma/vim-expand-region](https://github.com/terryma/vim-expand-region)
+
+
+Select Iikanji-ni by Text-Object.
+
+
+(DEMO)
+
+
+---
+
+
+# [kana/vim-textobj-user](https://github.com/kana/vim-textobj-user)
+
+- [rhysd/vim-textobj-ruby](https://github.com/rhysd/vim-textobj-ruby)
+- [sgur/vim-textobj-parameter](https://github.com/sgur/vim-textobj-parameter)
+- [kana/vim-textobj-entire](https://github.com/kana/vim-textobj-entire)
+- [whatyouhide/vim-textobj-xmlattr](https://github.com/whatyouhide/vim-textobj-xmlattr)
+
+---
+
+# [kana/vim-operator-user](https://github.com/kana/vim-operator-user)
+
+- [emonkak/vim-operator-comment](https://github.com/emonkak/vim-operator-comment)
+- [tyru/operator-camelize.vim](https://github.com/tyru/operator-camelize.vim)
+- [kana/vim-operator-replace](https://github.com/kana/vim-operator-replace)
+
+
+---
+
+Summary
+--------
 
 
