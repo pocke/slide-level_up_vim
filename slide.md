@@ -21,8 +21,8 @@ http://me.pocke.me/slide-level_up_vim
 ## Pocke
 A web engineer.
 
-- GitHub: `@pocke`
-- Twitter `@p_ck_`
+- GitHub: [@pocke](https://github.com/pocke)
+- Twitter [@p_ck_](https://twitter.com/p_ck_)
 ]
 
 .col-xs-6[
@@ -31,16 +31,50 @@ A web engineer.
 ![pocke](pocke.svg)
 ]
 
+]
+
+
+
+.col-xs-12[
+<br>
+
+Follow me! :bow:
+]
+
+
+---
+
+
+# About me
+
+### Jobs
+
+.center[
+
+
 [![skyhopper](skyhopper.png)](https://github.com/skyarch-networks/skyhopper)
 
 .sideci-img[
 [![sideci](sideci.png)](https://www.sideci.com)
 ]
 
-
 ]
 
 
+---
+
+# About me
+
+Salesan Polytechnic
+
+--
+
+
+.big[
+＿人人人人人＿<br>
+＞　Dropout　＜<br>
+￣Y^Y^Y^Y^Y￣<br>
+]
 
 
 
