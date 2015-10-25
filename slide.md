@@ -14,10 +14,8 @@ class: center, middle
 # About me
 
 
-## Pocke
-
-
 .col-xs-6[
+## Pocke
 A web engineer.
 
 - GitHub: `@pocke`
@@ -25,10 +23,21 @@ A web engineer.
 ]
 
 .col-xs-6[
+
 .pocke-img[
 ![pocke](pocke.svg)
 ]
+
+![skyhopper](skyhopper.png)
+
+.sideci-img[
+![sideci](sideci.png)
 ]
+
+]
+
+
+
 
 
 
@@ -43,7 +52,9 @@ A web engineer.
   1. Mode
 1. Text-Object and Operator
   1. Basic usage
-  1. Advanced usage
+      1. What's Operator?
+      1. What's Text-Object?
+  1. Advanced usage (with Plugin)
 
 ---
 
@@ -55,10 +66,28 @@ A web engineer.
 1. Are you a professional of Vim?
 
 
+
+
+
+
+---
+
+class: center, middle
+
+# Tutorial of Vim
+
+
 ---
 
 background-image: url(100million_vim.png)
 
+
+---
+
+
+class: center, middle
+
+# What's Vim?
 
 ---
 
@@ -70,19 +99,29 @@ background-image: url(100million_vim.png)
 
 ---
 
-# Vim is a text editor(or an IDE)
+# Vim is a text editor<br>(or an IDE)
 
+.col-xs-6[
 - notepad.exe
 - Tera pad
 - Emacs
 - Sublime Text
 - Atom
+]
 
 
+.col-xs-6[
 - Visual Studio
 - Eclipse
 - IntelliJ IDEA
+]
 
+
+---
+
+class: center, middle
+
+# Vim has some modes
 
 ---
 
@@ -113,6 +152,24 @@ and combination key shortcuts.
 
 TODO
 
+(DEMO)
+
+
+---
+
+
+class: center, middle
+
+
+# Text-Object and Operator
+
+---
+
+
+class: center, middle
+
+
+# Basic Usage
 
 ---
 
@@ -129,6 +186,13 @@ Text-Object is a range.
 
 ---
 
+class: center, middle
+
+# What's Operator?
+
+
+---
+
 # What's Operator?
 
 The Operators are many actions.
@@ -136,9 +200,47 @@ The Operators are many actions.
 - `d` Delete
 - `c` Change
 - `y` Yank
+- `v` Visual
+
+See. [:help operator](http://vim-jp.org/vimdoc-ja/motion.html#operator)
+
+---
+
+# What's Operator?
+
+
+(DEMO)
+
+- When Operator is pressed twice, Operator is applied for a line.
+
+
+---
+
+
+class: center, middle
+
+# What's Text-Object?
 
 ---
 
 # What's Text-Object?
+
+- Text-Object is composed of two parts.
+  1. `i` or `a`
+  1. Character(s) for range type
+
+
+See. [:help text-objects](http://vim-jp.org/vimdoc-ja/motion.html#text-objects)
+
+
+---
+
+# Diff between a and i
+
+- `a` contains separators(e.g. `()`, `{}`, ...) / whitespace.
+- `i` doesn't contains separators/whitespace.
+
+
+# What's "Char for range type"
 
 
